@@ -1,0 +1,10 @@
+{
+    "name": "administrator/gittow",
+    "authors": [
+        {
+            "name": "chanina-lin",
+            "email": "676990794@qq.com"
+        }
+    ],
+    "require": {}
+}
