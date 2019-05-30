@@ -7,6 +7,6 @@
         }
     ],
     "require": {
-	     "chanina-lin/ceshi":""
+	     "chanina-lin/ceshi":: "1.0.*"
 	}
 }
